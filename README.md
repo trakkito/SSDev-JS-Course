@@ -1,2 +1,2 @@
-# DOM-Practice
-Practice with JS DOM
+# SSDev JS Course
+My space for SuperSimpleDev's Javascript course
